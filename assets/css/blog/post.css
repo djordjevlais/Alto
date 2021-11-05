@@ -2,6 +2,10 @@
     margin-bottom: 75px;
 }
 
+.post-image {
+    border-radius: 12px;
+}
+
 .post-media {
     margin-bottom: 20px;
 }
