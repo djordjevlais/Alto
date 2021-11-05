@@ -34,7 +34,7 @@
 
 .post-header.big-title .post-title {
     font-size: 30px;
-    font-weight: 800;
+    font-weight: 300;
     letter-spacing: -0.01em;
 }
 
@@ -49,7 +49,7 @@
 .post-meta {
     color: var(--secondary-text-color);
     font-size: 12px;
-    font-weight: 800;
+    font-weight: 300;
     letter-spacing: 0.3px;
     text-transform: uppercase;
 }
@@ -92,7 +92,7 @@
     align-items: center;
     padding-left: 14px;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 300;
     letter-spacing: 0.3px;
     text-transform: uppercase;
 }
@@ -105,7 +105,7 @@
 
 .post-link.primary {
     color: var(--primary-color);
-    font-weight: 800;
+    font-weight: 300;
 }
 
 .post-link.primary::before {
@@ -166,7 +166,7 @@
     color: var(--secondary-text-color);
     font-size: 13px;
     line-height: 1;
-    font-weight: 700;
+    font-weight: 300;
 }
 
 .post-author-name-link + .post-author-name-link::before {
