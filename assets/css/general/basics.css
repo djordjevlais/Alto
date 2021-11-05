@@ -33,9 +33,9 @@ html {
 body {
     color: var(--primary-text-color);
     font-family: var(--font-sans);
-    font-size: 16px;
-    font-weight: 300;
-    line-height: 1.65;
+    font-size: 13px;
+    font-weight: 200;
+    line-height: 1,2307692308;
     text-rendering: optimizeLegibility;
     word-break: break-word;
     background-color: var(--light-gray-color);
